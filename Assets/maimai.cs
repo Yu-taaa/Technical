@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class maimai : MonoBehaviour {
 
+	string ss = WWW;
+
 	// Use this for initialization
 	void Start () {
 		
