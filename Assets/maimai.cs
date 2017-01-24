@@ -6,6 +6,8 @@ public class maimai : MonoBehaviour {
 
 	string ss = WWW;
 
+	string dd = ADInterstitialAd;
+
 	// Use this for initialization
 	void Start () {
 		
